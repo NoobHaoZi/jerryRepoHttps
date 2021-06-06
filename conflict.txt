@@ -3,6 +3,10 @@
 冲突文件2
 冲突文件3
 冲突文件4
+在jerryRepoHttps中修改冲突文件5
+在jerryRepoHttps中修改冲突文件6
+在jerryRepoHttps中修改冲突文件7
+在jerryRepoHttps中修改冲突文件8
 在torRepo中修改冲突文件5
 在torRepo中修改冲突文件6
 在torRepo中修改冲突文件7
